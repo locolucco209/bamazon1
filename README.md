@@ -11,7 +11,9 @@ node bam1.js search
 node bam1.js order
 node bam1.js manage (low, high, new)
 
-Here is video demonstration:
+There is a video demonstartion in my the github folder titled:
+
+bamazonDATABASE - Small.mov
 
 
 *Tech Stack*
