@@ -11,12 +11,12 @@ node bam1.js search
 node bam1.js order
 node bam1.js manage (low, high, new)
 
-There is a video demonstartion in my the github folder titled:
+# There is a video demonstartion in my the github folder titled:
 
-bamazonDATABASE - Small.mov
+*bamazonDATABASE - Small.mov*
 
 
-*Tech Stack*
+#Tech Stack
 This application run mySQL through NODE.JS
 
 I built the database through my IDE with a .sql file and built out the logic in a .js file
