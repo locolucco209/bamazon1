@@ -1,4 +1,4 @@
-*bamazon application*
+ # *bamazon application*
 
 As the user you run a grocery store with Products.
 After you install the application you will have 10 products in your inventory.
