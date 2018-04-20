@@ -16,7 +16,7 @@ node bam1.js manage (low, high, new)
 *bamazonDATABASE - Small.mov*
 
 
-#Tech Stack
+# Tech Stack
 This application run mySQL through NODE.JS
 
 I built the database through my IDE with a .sql file and built out the logic in a .js file
